@@ -18,3 +18,6 @@ Ion thrusters are typically more than 60% efficient.
 
 ### Ref
 - https://en.wikipedia.org/wiki/Ion_thruster
+- https://en.wikipedia.org/wiki/Gridded_ion_thruster
+- https://en.wikipedia.org/wiki/Spacecraft_electric_propulsion
+- 
