@@ -1,4 +1,4 @@
-# tec-ion-thruster
+# tec-Ion-Thruster
 
 ### info
 
